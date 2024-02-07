@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [code](https://your-solution-url.com)
-- Live Site URL: [live-site](https://your-live-site-url.com)
+- Solution URL: [code](https://github.com/phangtono/Product-preview-card-component)
+- Live Site URL: [live-site](https://glowing-faun-717f18.netlify.app/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ### Useful resources
 
-- [Kevin Powell](https://www.youtube.com/watch?v=B2WL6KkqhLQ&list=WL&index=40)"# Product-preview-card-component" 
+- [Kevin Powell](https://www.youtube.com/watch?v=B2WL6KkqhLQ&list=WL&index=40)
